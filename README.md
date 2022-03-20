@@ -1,5 +1,5 @@
 
-# My Voron 2.4r2 350mm - Serial# V2.2890
+# Voron 2.4r2 350mm - Serial# V2.2890
 
 ![IMG_2851](https://user-images.githubusercontent.com/479514/159172513-148f7ab4-43cb-4444-8263-aa0e2d155134.jpg)
 
@@ -15,7 +15,6 @@ This is mainly to serve as a back up for my settings. Feel free to look around a
 * Hotend: Phaetus Dragon High Flow
 ### Extras
 * Klicky Probe (for QGL/Bed mesh) - soon will implement Auto-Z
-* Manual Z-endstop
 
 ## Software
 * Firmware: Klipper
