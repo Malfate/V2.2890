@@ -1,6 +1,8 @@
 
 # My Voron 2.4r2 350mm - Serial# V2.2890
 
+![IMG_2851](https://user-images.githubusercontent.com/479514/159172328-31587f75-b875-477f-be04-070ab2daeab7.jpg)
+
 This is mainly to serve as a back up for my settings. Feel free to look around and tinker!
 
 > This is provided as is. Use at your own risk. Depending on your hardware your settings may be completly different!
