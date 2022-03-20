@@ -9,7 +9,7 @@ This is mainly to serve as a back up for my settings. Feel free to look around a
 * Voron v2.4r2 - 350mm
   * Controller Board: Big Tree Tech Octopus v1.1
   * Stepper Motor Driver: TMC2209
-* Extruder Setup: Stealthburner with CW2 extruder
+* Extruder Setup: Stealthburner with Clockwork 2 extruder
 * Hotend: Phaetus Dragon High Flow
 ### Extras
 * Klicky Probe (for QGL/Bed mesh) - soon will implement Auto-Z
