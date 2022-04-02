@@ -13,12 +13,21 @@ This is mainly to serve as a back up for my settings. Feel free to look around a
   * Stepper Motor Driver: TMC2209
 * Extruder Setup: Stealthburner with Clockwork 2 extruder
 * Hotend: Phaetus Dragon High Flow
-### Extras
-* Klicky Probe (for QGL/Bed mesh) - soon will implement Auto-Z
+
+## Hardware Extras
+* Klicky Probe (for QGL/Bed mesh)
+* Nevermore Air Filter/Circulator
+* Decontaminator Purge Bucket & Nozzle Scrubber
+* 4" inch external duct
 
 ## Software
 * Firmware: Klipper
 * Frontend UI: Mainsail
+* Display Software: KlipperScreen
+
+## Enabled Features 
+* Bed Mesh Leveling & Quad Gantry Level
+* Auto-z
 
 ## Other misc hardware
 * Display: Big Tree Tech 5" Touch screen display - PITFT50 V2.0
